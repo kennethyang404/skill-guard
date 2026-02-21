@@ -1,5 +1,7 @@
 # SkillGuard
 
+[Live Demo](https://skillguard.lovable.app/)
+
 *SkillGuard* is an enterprise platform that automatically evaluates, scores, and governs AI Agent Skills before they are deployed into corporate environments.
 
 ## The Problem: The "ClawHavoc" Vulnerability
